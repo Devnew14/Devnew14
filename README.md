@@ -1,9 +1,10 @@
 # Salut ! Je suis Devnew14 👋
 
 ### 🏆 Coding Challenges
-Je pratique régulièrement des problèmes d'algorithmes et structures de données sur Geek for Geek, Root Me et LeetCode :  
-[Voir mon profil et activité Geek for Geek](https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity)
-
+Je pratique régulièrement des problèmes d'algorithmes et structures de données sur Geek for Geek, Root Me et TryHackMe :  
+- [Voir mon profil et activité Geek for Geek](https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity)  
+- [Voir mon profil et activité Root Me](https://www.root-me.org/Devnew14?lang=fr#59ad11297c459fad2cad203c4be79a1f)  
+- [Voir mon profil et activité TryHackMe](https://tryhackme.com/p/devnew14)
 ---
 
 ### 💻 Projets Académiques
@@ -31,7 +32,7 @@ Je pratique régulièrement des problèmes d'algorithmes et structures de donné
   Manipulation réseau et sécurité offensive/défensive basique.
 
 - **Challenges techniques**  
-  Participation à Root Me, LeetCode, Geek for Geek.  
+  Participation à Root Me, Geek for Geek, TryHackMe.  
 
 ---
 
