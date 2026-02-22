@@ -4,20 +4,21 @@
   👋 Hello ! Je suis <strong>Devnew14</strong>
 </h1>
 
-<h3>Étudiant en informatique • Cybersécurité • Développement</h3>
+<h3>Profil SOC / Blue Team • Étudiant en informatique • Cybersécurité & Développement</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    Passionné par la cybersécurité, le développement et la résolution de problèmes techniques.  
-    J'aime analyser, comprendre et construire des solutions efficaces, sécurisées et bien structurées.
+    Passionné par la cybersécurité et l’analyse des systèmes, je m’oriente vers un rôle en Security Operations Center (SOC).
+    Je développe des compétences en détection d’incidents, analyse de logs, investigation et automatisation.
   </p>
 
   <p>
-    🔐 Intérêt principal : Cybersécurité & Blue Team <br/>
-    💻 Développement & automatisation <br/>
-    📚 Apprentissage continu & challenges techniques
+    🛡 Orientation : SOC / Blue Team <br/>
+    🔍 Analyse de sécurité & investigation <br/>
+    💻 Développement et automatisation <br/>
+    📚 Apprentissage continu via plateformes techniques
   </p>
 </div>
 
@@ -26,28 +27,42 @@
 ---
 
 ## 🏆 Coding Challenges
+Je pratique régulièrement des problèmes d'algorithmes et structures de données sur Geek for Geek, Root Me et TryHackMe :  
 
-Je pratique régulièrement des problèmes d’algorithmique et de cybersécurité :
+- https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity  
+- https://www.root-me.org/Devnew14?lang=fr#59ad11297c459fad2cad203c4be79a1f  
+- https://tryhackme.com/p/devnew14  
 
-- 🔗 Geek for Geek → https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity  
-- 🔗 Root Me → https://www.root-me.org/Devnew14?lang=fr  
-- 🔗 TryHackMe → https://tryhackme.com/p/devnew14  
+---
+
+## 🛡 Orientation SOC / Blue Team
+
+- Analyse de logs systèmes et réseau  
+- Détection d’activités suspectes et investigation d’incidents  
+- Surveillance d’environnements Linux  
+- Utilisation d’outils de sécurité et de monitoring  
+- Approche analytique orientée défense  
+
+Outils étudiés : Splunk, Wireshark, SIEM  
+Plateformes : TryHackMe, Hack The Box, Let’s Defend, OverTheWire
 
 ---
 
 ## 💻 Projets Académiques
 
 ### 🧠 Application de mesure de la charge mentale
-Application web sécurisée avec Firebase : authentification, stockage et analyse de données utilisateurs.  
+Développement d’une application web sécurisée avec Firebase (authentification & stockage).  
+Collecte, analyse et export de données utilisateurs.  
 Conception orientée sécurité et protection des données.
 
 ### 📊 Site de visualisation de données
-Développement web avec graphiques interactifs et analyse statistique.  
-Interprétation et présentation visuelle des résultats.
+Développement web avec graphiques interactifs.  
+Analyse statistique et mise en forme visuelle des données.  
+Approche analytique et interprétation des résultats.
 
 ### 🧩 Algorithme de plus court chemin (Java)
 Implémentation en Java d’un algorithme de recherche de chemin dans un labyrinthe.  
-Optimisation et programmation orientée objet.
+Optimisation et structuration en programmation orientée objet.
 
 ### 🤖 Reportage sur l’intelligence artificielle
 Étude des enjeux techniques, éthiques et sociétaux de l’IA.  
@@ -58,42 +73,43 @@ Analyse critique et vulgarisation scientifique.
 ## 🌱 Projets Personnels (En cours)
 
 ### 🛡 Cybersécurité / SOC (Blue Team)
-- Analyse de logs et détection d’attaques  
-- Investigation d’incidents sous Linux  
-- Outils : Splunk, Wireshark, SIEM  
-- Plateformes : TryHackMe, Hack The Box, Let’s Defend, OverTheWire
+Analyse de logs et détection d’attaques.  
+Investigation d’incidents en environnement Linux.  
+Outils : Splunk, Wireshark, SIEM.  
+Plateformes : TryHackMe, Hack The Box, Let’s Defend, OverTheWire.
 
 ### ⚙️ Développement & automatisation
-- Python : scripts d’automatisation, mini scanner TCP  
-- Java : mini-jeux, projet MarvelDialogues  
-- Bases en sécurité offensive et défensive
+Python : scripts d’automatisation (organiseur de fichiers, mini scanner TCP)  
+Java : mini-jeux et projet MarvelDialogues  
+Manipulation réseau et sécurité offensive/défensive basique.
 
 ### 🎯 Challenges techniques
-Participation régulière à Root Me, Geek for Geek et TryHackMe.
+Participation à Root Me, Geek for Geek, TryHackMe.
 
 ---
 
 ## 🛠 Compétences Techniques
 
 ### 💻 Langages
-Python • Java (POO) • C • JavaScript • HTML • CSS • PHP • SQL • R
+Python, Java (POO), C, JavaScript, HTML, CSS, PHP, SQL, R
 
 ### 🔐 Cybersécurité
-SIEM • Analyse réseau • Investigation • Blue Team (en approfondissement)
+Notions en cyberdéfense (en approfondissement) :  
+SIEM, analyse réseau, investigation, Blue Team
 
 ### 🧰 Outils & Technologies
-Firebase • Git • Visual Studio Code • Eclipse • TortoiseSVN • PuTTY • MySQL
+Firebase, Git, Visual Studio Code, Eclipse, TortoiseSVN, PuTTY (SSH), MySQL
 
 ### 🖥 Systèmes
-Linux • Kali Linux • Windows (VM)
+Linux, Kali Linux, Windows (en VM)
 
 ### 🎨 Bureautique & Design
-Pack Office • Google Sheets • Canva • Figma
+Pack Office, Google Sheets, Canva, Figma
 
 ---
 
-## 🔗 Mes projets GitHub
-Tous mes projets académiques et personnels :  
+## 🔗 Projets sur GitHub
+Tous mes projets académiques et personnels sont disponibles ici :  
 👉 https://github.com/Devnew14
 
 ---
