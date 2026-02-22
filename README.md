@@ -44,7 +44,8 @@ Implémentation en Java d’un algorithme de recherche de chemin dans un labyrin
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
+<img width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 </td>
 </tr>
 </table>
@@ -70,7 +71,8 @@ Participation à Root Me, Geek for Geek, TryHackMe.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
+<img width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 </td>
 </tr>
 </table>
@@ -90,7 +92,8 @@ Participation à Root Me, Geek for Geek, TryHackMe.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
+<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </td>
 </tr>
 </table>
