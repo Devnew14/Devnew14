@@ -93,7 +93,7 @@ Participation à Root Me, Geek for Geek, TryHackMe.
 </td>
 
 <td width="50%" align="center">
-<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 </td>
 </tr>
 </table>
