@@ -8,16 +8,11 @@
 <td width="50%" valign="top">
 
 ## 🏆 Coding Challenges
-Je pratique régulièrement des problèmes d'algorithmes et structures de données :
+Je pratique régulièrement des problèmes d'algorithmes et structures de données sur Geek for Geek, Root Me et TryHackMe :  
 
-- Geek for Geek  
-https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity  
-
-- Root Me  
-https://www.root-me.org/Devnew14?lang=fr#59ad11297c459fad2cad203c4be79a1f  
-
-- TryHackMe  
-https://tryhackme.com/p/devnew14  
+- https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity  
+- https://www.root-me.org/Devnew14?lang=fr#59ad11297c459fad2cad203c4be79a1f  
+- https://tryhackme.com/p/devnew14  
 
 </td>
 
@@ -35,35 +30,21 @@ https://tryhackme.com/p/devnew14
 
 ## 💻 Projets Académiques
 
-### 🧠 Application de mesure de la charge mentale
-Application web sécurisée avec Firebase : authentification, stockage et analyse de données utilisateurs.  
-Conception orientée sécurité et protection des données.
+### Application de mesure de la charge mentale
+Développement d’une application web sécurisée avec Firebase (authentification & stockage). Collecte, analyse et export de données utilisateurs. Conception orientée sécurité et protection des données.
 
-### 📊 Site de visualisation de données
-Développement web avec graphiques interactifs.  
-Analyse statistique et visualisation des données.
+### Site de visualisation de données
+Développement web avec graphiques interactifs. Analyse statistique et mise en forme visuelle des données. Approche analytique et interprétation des résultats.
 
-### 🧩 Algorithme de plus court chemin (Java)
-Recherche de chemin dans un labyrinthe.  
-Optimisation et programmation orientée objet.
+### Algorithme de plus court chemin (Java)
+Implémentation en Java d’un algorithme de recherche de chemin dans un labyrinthe. Optimisation et structuration en programmation orientée objet.
 
-### 🤖 Reportage sur l’intelligence artificielle
-Analyse technique, éthique et sociétale de l’IA.
+### Reportage sur l’intelligence artificielle
+Étude des enjeux techniques, éthiques et sociétaux de l’IA. Analyse critique et vulgarisation scientifique.
 
 </td>
 
 <td width="50%" valign="top">
-
-### 🎯 Objectif technique
-Développer une approche analytique des systèmes et renforcer mes compétences en sécurité informatique.
-
-### 🔍 Compétences mobilisées
-- Analyse de données  
-- Programmation orientée objet  
-- Conception sécurisée  
-- Visualisation d’informations  
-- Esprit critique technique  
-
 </td>
 </tr>
 </table>
@@ -76,37 +57,20 @@ Développer une approche analytique des systèmes et renforcer mes compétences 
 
 ## 🌱 Projets Personnels (En cours)
 
-### 🛡 Cybersécurité / SOC (Blue Team)
-Analyse de logs et détection d’attaques.  
-Investigation d’incidents Linux.  
-Outils : Splunk, Wireshark, SIEM.  
-Plateformes : TryHackMe, Hack The Box, Let’s Defend, OverTheWire.
+### Cybersécurité / SOC (Blue Team)
+Analyse de logs et détection d’attaques. Investigation d’incidents en environnement Linux. Outils : Splunk, Wireshark, SIEM. Plateformes : TryHackMe, Hack The Box, Let’s Defend, OverTheWire.
 
-### ⚙️ Développement & automatisation
-Python : scripts d’automatisation, mini scanner TCP  
-Java : mini-jeux, projet MarvelDialogues  
-Bases en sécurité offensive et défensive.
+### Développement & automatisation
+Python : scripts d’automatisation (organiseur de fichiers, mini scanner TCP)  
+Java : mini-jeux et projet MarvelDialogues  
+Manipulation réseau et sécurité offensive/défensive basique.
 
-### 🎯 Challenges techniques
+### Challenges techniques
 Participation à Root Me, Geek for Geek, TryHackMe.
 
 </td>
 
 <td width="50%" valign="top">
-
-### 🧭 Orientation SOC
-- Surveillance systèmes et réseaux  
-- Investigation d’incidents  
-- Analyse comportementale  
-- Approche Blue Team  
-- Apprentissage continu en cybersécurité  
-
-### 🧪 En pratique
-- Analyse de trafic réseau  
-- Manipulation d’environnements Linux  
-- Études de scénarios d’attaque  
-- Automatisation d’outils  
-
 </td>
 </tr>
 </table>
@@ -118,36 +82,15 @@ Participation à Root Me, Geek for Geek, TryHackMe.
 <td width="50%" valign="top">
 
 ## 🛠 Compétences Techniques
-
-### 💻 Langages
-Python, Java (POO), C, JavaScript, HTML, CSS, PHP, SQL, R
-
-### 🔐 Cybersécurité
-SIEM, analyse réseau, investigation, Blue Team (en approfondissement)
-
-### 🧰 Outils & Tech
-Firebase, Git, Visual Studio Code, Eclipse, TortoiseSVN, PuTTY, MySQL
-
-### 🖥 Systèmes
-Linux, Kali Linux, Windows (VM)
-
-### 🎨 Bureautique & Design
-Pack Office, Google Sheets, Canva, Figma
+- Langages : Python, Java (POO), C, JavaScript, HTML, CSS, PHP, SQL, R  
+- Cybersécurité : Notions en cyberdéfense (en approfondissement) : SIEM, analyse réseau, investigation, Blue Team  
+- Outils & Tech : Firebase, Git, Visual Studio Code, Eclipse, TortoiseSVN, PuTTY (SSH), MySQL  
+- Systèmes : Linux, Kali Linux, Windows (en VM)  
+- Bureautique & Design : Pack Office, Google Sheets, Canva, Figma  
 
 </td>
 
 <td width="50%" valign="top">
-
-### 🧩 Compétences transversales
-- Analyse logique  
-- Résolution de problèmes  
-- Méthodologie d’investigation  
-- Autonomie technique  
-- Apprentissage rapide  
-
-### 🎯 Objectif professionnel
-Évoluer vers un poste d’analyste SOC et contribuer à la détection et la réponse aux incidents de sécurité.
-
 </td>
 </tr>
 </table>
@@ -155,7 +98,7 @@ Pack Office, Google Sheets, Canva, Figma
 ---
 
 ## 🔗 Projets sur GitHub
-Tous mes projets académiques et personnels :  
+Tous mes projets académiques et personnels sont disponibles ici :  
 👉 https://github.com/Devnew14
 
 ---
