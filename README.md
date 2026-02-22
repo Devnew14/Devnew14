@@ -4,21 +4,14 @@
   👋 Hello ! Je suis <strong>Devnew14</strong>
 </h1>
 
-<h3>Profil SOC / Blue Team • Étudiant en informatique • Cybersécurité & Développement</h3>
+<h3>Cybersécurité • SOC / Blue Team • Développement</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    Passionné par la cybersécurité et l’analyse des systèmes, je m’oriente vers un rôle en Security Operations Center (SOC).
-    Je développe des compétences en détection d’incidents, analyse de logs, investigation et automatisation.
-  </p>
-
-  <p>
-    🛡 Orientation : SOC / Blue Team <br/>
-    🔍 Analyse de sécurité & investigation <br/>
-    💻 Développement et automatisation <br/>
-    📚 Apprentissage continu via plateformes techniques
+    Passionné par la cybersécurité, l’analyse de systèmes et la résolution de problèmes techniques.
+    Je développe mes compétences en investigation, détection d’incidents et automatisation.
   </p>
 </div>
 
@@ -32,19 +25,6 @@ Je pratique régulièrement des problèmes d'algorithmes et structures de donné
 - https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity  
 - https://www.root-me.org/Devnew14?lang=fr#59ad11297c459fad2cad203c4be79a1f  
 - https://tryhackme.com/p/devnew14  
-
----
-
-## 🛡 Orientation SOC / Blue Team
-
-- Analyse de logs systèmes et réseau  
-- Détection d’activités suspectes et investigation d’incidents  
-- Surveillance d’environnements Linux  
-- Utilisation d’outils de sécurité et de monitoring  
-- Approche analytique orientée défense  
-
-Outils étudiés : Splunk, Wireshark, SIEM  
-Plateformes : TryHackMe, Hack The Box, Let’s Defend, OverTheWire
 
 ---
 
