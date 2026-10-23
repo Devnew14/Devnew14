@@ -1,6 +1,18 @@
 ![Banner](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 
-# 🏆 Coding Challenges & Cybersecurity Stats
+# 👋 Hello ! Je suis **Devnew14**
+
+### Cybersécurité • SOC / Blue Team • Développement
+
+<p>
+  <img src="https://img.shields.io/badge/Domaine-SOC%20%7C%20Blue%20Team-0078D4?style=for-the-badge" alt="SOC Blue Team"/>
+  <img src="https://img.shields.io/badge/Plateforme-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Statut-En%20apprentissage-orange?style=for-the-badge" alt="En apprentissage"/>
+</p>
+
+---
+
+## 🏆 Coding Challenges & Cybersecurity Stats
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity">
@@ -18,22 +30,13 @@
   <a href="https://www.hackthebox.com/">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-View%20Platform-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"/>
   </a>
+  <a href="https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
+  </a>
 </p>
 
 <p align="center">
   <i>Practice • Learn • Improve • Repeat</i>
-</p>
-
----
-
-# 👋 Hello ! Je suis **Devnew14**
-
-### Cybersécurité • SOC / Blue Team • Développement
-
-<p>
-  <img src="https://img.shields.io/badge/Domaine-SOC%20%7C%20Blue%20Team-0078D4?style=for-the-badge" alt="SOC Blue Team"/>
-  <img src="https://img.shields.io/badge/Plateforme-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Statut-En%20apprentissage-orange?style=for-the-badge" alt="En apprentissage"/>
 </p>
 
 ---
