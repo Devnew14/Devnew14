@@ -14,11 +14,6 @@
 
 ## 🏆 Coding Challenges & Cybersecurity Stats
 
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity">
-    <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=user_26yle6ezzw1" alt="GeeksforGeeks Stats"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.root-me.org/Devnew14?lang=fr#59ad11297c459fad2cad203c4be79a1f">
