@@ -1,8 +1,34 @@
+![Banner](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+# 🏆 Coding Challenges & Cybersecurity Stats
 
-<h1 align="left">👋 Hello ! Je suis <strong>Devnew14</strong></h1>
-<h3>Cybersécurité • SOC / Blue Team • Développement</h3>
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity">
+    <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=user_26yle6ezzw1" alt="GeeksforGeeks Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.root-me.org/Devnew14?lang=fr#59ad11297c459fad2cad203c4be79a1f">
+    <img src="https://img.shields.io/badge/Root--Me-View%20Profile-red?style=for-the-badge" alt="Root-Me Profile"/>
+  </a>
+  <a href="https://tryhackme.com/p/devnew14">
+    <img src="https://img.shields.io/badge/TryHackMe-View%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
+  </a>
+  <a href="https://www.hackthebox.com/">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-View%20Platform-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Practice • Learn • Improve • Repeat</i>
+</p>
+
+---
+
+# 👋 Hello ! Je suis **Devnew14**
+
+### Cybersécurité • SOC / Blue Team • Développement
 
 <p>
   <img src="https://img.shields.io/badge/Domaine-SOC%20%7C%20Blue%20Team-0078D4?style=for-the-badge" alt="SOC Blue Team"/>
@@ -10,20 +36,22 @@
   <img src="https://img.shields.io/badge/Statut-En%20apprentissage-orange?style=for-the-badge" alt="En apprentissage"/>
 </p>
 
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ## 🏆 Coding Challenges
 
-Je pratique régulièrement des problèmes d'algorithmes et de structures de données sur GeeksforGeeks, Root-Me et TryHackMe.
+Je pratique régulièrement des problèmes d'algorithmes, de structures de données et des challenges de cybersécurité sur GeeksforGeeks, Root-Me et TryHackMe.
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/profile/user_26yle6ezzw1?tab=activity)
 - [Root-Me](https://www.root-me.org/Devnew14?lang=fr#59ad11297c459fad2cad203c4be79a1f)
 - [TryHackMe](https://tryhackme.com/p/devnew14)
+- [Hack The Box](https://www.hackthebox.com/)
 
 </td>
-
 <td width="50%" align="center">
 <img width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Coding animation"/>
 </td>
@@ -55,7 +83,6 @@ Implémentation d’un algorithme de recherche de chemin dans un labyrinthe en J
 Étude des enjeux techniques, éthiques et sociétaux de l’IA.
 
 </td>
-
 <td width="40%" align="center">
 <img width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Technology animation"/>
 </td>
@@ -86,10 +113,9 @@ Approfondissement de l’analyse de logs, de l’analyse réseau, de la détecti
 
 ### 🎯 Challenges techniques
 
-Entraînement sur Root-Me, GeeksforGeeks et TryHackMe.
+Entraînement sur Root-Me, GeeksforGeeks, TryHackMe et Hack The Box.
 
 </td>
-
 <td width="40%" align="center">
 <img width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Cybersecurity animation"/>
 </td>
